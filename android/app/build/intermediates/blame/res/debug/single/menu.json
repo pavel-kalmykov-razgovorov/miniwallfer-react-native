@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pavel/Dropbox/Universidad/ADI/mini-wallfer-rn/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/home/pavel/Dropbox/Universidad/ADI/mini-wallfer-rn/android/app/build/intermediates/exploded-aar/miniwallferrn/react-native-navigation/unspecified/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/home/pavel/Dropbox/Universidad/ADI/mini-wallfer-rn/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/home/pavel/Dropbox/Universidad/ADI/mini-wallfer-rn/android/app/build/intermediates/exploded-aar/miniwallferrn/react-native-navigation/unspecified/res/menu/stub.xml"
+    }
+]
